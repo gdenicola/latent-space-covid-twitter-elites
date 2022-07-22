@@ -8,12 +8,12 @@
 
 
 #install packages (if not yet installed)
-#install.packages(statnet)
+#install.packages(network)
 #install.packages(latentnet)
 
 
 #load required packages
-library(statnet)
+library(network)
 library(latentnet)
 
 
