@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "De Nicola"
+  given-names: "Giacomo"
+  orcid: "https://orcid.org/0000-0003-0558-6912"
+- family-names: "Tuekam Mambou"
+  given-names: "Victor H."
+  orcid: "https://orcid.org/0000-0002-0973-3492"
+- family-names: "Kauermann"
+  given-names: "Göran"
+  orcid: "https://orcid.org/0000-0003-0742-7835"
+title: "Exploring the latent social space of COVID-19 Twitter elites"
+version: 1.0.0
+doi: https://doi.org/10.48550/arXiv.2207.13352
+date-released: 2022-07-28
+url: "https://github.com/gdenicola/latent-space-covid-twitter-elites"
