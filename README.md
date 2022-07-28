@@ -17,7 +17,6 @@ and related code is found on their [GitHub](https://github.com/thepanacealab/COV
   month = {7},
   title = {{Exploring the latent social space of COVID-19 Twitter elites}},
   url = {https://arxiv.org/abs/2207.13352},
-  version = {1.0.0},
   year = {2022}
 }
 ```
