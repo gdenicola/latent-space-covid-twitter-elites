@@ -14,12 +14,11 @@ and related code is found on their [GitHub](https://github.com/thepanacealab/COV
 @article{denicola2023twitter,
 title = {{{COVID-19}} and social media: Beyond polarization},
 author = {De Nicola, Giacomo and Tuekam Mambou, Victor H. and Kauermann, Göran},
-journal={PNAS Nexus},
-volume={2},
+journal= {PNAS Nexus},
+volume= {2},
 number = {8},
 pages = {pgad246},
-keywords={publications},
-year={2023},
+year= {2023},
 doi = {10.1093/pnasnexus/pgad246}
 }
 ```
