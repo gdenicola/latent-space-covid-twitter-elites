@@ -1,5 +1,5 @@
 # latent-space-covid-twitter-elites
-Data and code for reproducing the analysis in the paper "Exploring the latent social space of COVID-19 Twitter elites".
+Data and code for reproducing the analysis in the paper "COVID-19 and social media: Beyond polarization", publshed on PNAS Nexus.
 
 The file model_fitting.R contains the code to directly reproduce the latent space modeling of the network of COVID-19 twitter elites as performed in the paper, using the (already preprocessed and cleaned) network data contained in the file network_edgelist.csv.
 
@@ -11,12 +11,15 @@ and related code is found on their [GitHub](https://github.com/thepanacealab/COV
 ## How to cite our paper
 
 ```
-@article{De_Nicola_Exploring_the_latent_2022,
-  author = {De Nicola, Giacomo and Tuekam Mambou, Victor H. and Kauermann, Göran},
-  doi = {https://doi.org/10.48550/arXiv.2207.13352},
-  month = {7},
-  title = {{Exploring the latent social space of COVID-19 Twitter elites}},
-  url = {https://arxiv.org/abs/2207.13352},
-  year = {2022}
+@article{denicola2023twitter,
+title = {{{COVID-19}} and social media: Beyond polarization},
+author = {De Nicola, Giacomo and Tuekam Mambou, Victor H. and Kauermann, Göran},
+journal={PNAS Nexus},
+volume={2},
+number = {8},
+pages = {pgad246},
+keywords={publications},
+year={2023},
+	doi = {10.1093/pnasnexus/pgad246}
 }
 ```
