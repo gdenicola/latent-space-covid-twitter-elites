@@ -20,6 +20,6 @@ number = {8},
 pages = {pgad246},
 keywords={publications},
 year={2023},
-	doi = {10.1093/pnasnexus/pgad246}
+doi = {10.1093/pnasnexus/pgad246}
 }
 ```
